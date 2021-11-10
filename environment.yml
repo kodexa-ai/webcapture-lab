@@ -1,0 +1,5 @@
+name: webcapture_lab
+dependencies:
+  - python=3.9
+  - pip
+  - ipykernel
